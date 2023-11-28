@@ -2,7 +2,7 @@
 
 # Pretrained Weight Download
 ```
-https://drive.google.com/file/d/1qeYih1Ag_ntAZGTTHqP9k8YUlBUL4Jks/view?usp=sharing
+https://connecthkuhk-my.sharepoint.com/:f:/g/personal/xieenze_connect_hku_hk/Ept_oetyUGFCsZTKiL_90kUBy5jmPV65O5rJInsnRCDWJQ?e=CvGohw
 ```
 
 # pip download
