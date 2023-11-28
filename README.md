@@ -1,4 +1,5 @@
-# CVPR2024-IncSeg
+#Continual segmentation-to domain 
+
 
 # Weight Download
 ```
