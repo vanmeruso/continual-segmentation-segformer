@@ -1,10 +1,9 @@
-#Continual segmentation-to domain 
 
 
-# Weight Download
+# Pretrained Weight Download
 ```
 https://drive.google.com/file/d/1qeYih1Ag_ntAZGTTHqP9k8YUlBUL4Jks/view?usp=sharing
-```
+'''
 
 # pip download
 ```
